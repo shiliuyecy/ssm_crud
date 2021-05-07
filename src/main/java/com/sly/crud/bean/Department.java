@@ -10,6 +10,7 @@ public class Department {
         this.deptName = deptName;
         System.out.println("hot-fix");
         System.out.println("master test");
+        System.out.println("hot-fix2");
     }
 
     public Department() {
