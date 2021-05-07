@@ -12,6 +12,7 @@ public class Department {
         System.out.println("master test");
         System.out.println("hot-fix2");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 
     public Department() {
